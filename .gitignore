@@ -1,0 +1,42 @@
+﻿# Visual Studio & Rider
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# NuGet & Packages
+*.nupkg
+packages/
+.nuget/
+
+# Node.js (React için)
+node_modules/
+dist/
+build/
+.cache/
+.vite/
+
+# Secrets & Config
+appsettings.json
+appsettings.Development.json
+secrets.json
+.env
+
+# OS / Misc
+.DS_Store
+Thumbs.db

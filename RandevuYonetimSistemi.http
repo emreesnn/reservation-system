@@ -1,0 +1,6 @@
+@RandevuYonetimSistemi_HostAddress = http://localhost:5007
+
+GET {{RandevuYonetimSistemi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
